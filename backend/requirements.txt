@@ -1,0 +1,6 @@
+Django
+djangorestframework
+pandas
+numpy
+matplotlib
+PyQt5
