@@ -2,4 +2,5 @@ from django.apps import AppConfig
 
 
 class EquipmentConfig(AppConfig):
-    name = 'equipment'
+    default_auto_field = 'django.db.models.BigAutoField'
+    name = 'server.equipment'
