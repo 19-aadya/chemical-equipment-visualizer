@@ -88,7 +88,3 @@ http://localhost:3000/
 - Dataset history management
 - PDF report generation
 - Advanced analytics
-
-## Author
-Your Name  
-B.Tech Computer Science
