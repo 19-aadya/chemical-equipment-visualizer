@@ -61,7 +61,7 @@ cd chemical-equipment-visualizer
 ### 2. Backend Setup (Django)
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
-pip install -r requirements.txt
+pip install -r requirements.tx
 python manage.py migrate
 python manage.py runserver
 
@@ -86,6 +86,7 @@ http://localhost:3000/
 - Summary statistics
 - Graphical data visualization
 - Hybrid Web + Desktop support
+- PDF report generation
 
 ## Future Enhancements
 - User authentication
