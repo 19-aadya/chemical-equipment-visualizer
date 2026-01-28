@@ -14,18 +14,22 @@ Heat Exchanger,Exchanger,120,5.5,350
 Pump A,Pump,80,3.2,90  
 Reactor R1,Reactor,60,7.1,500  
 
-## Tech Stack
+## 📸 Screenshots
 
-### Backend
-- Python 3.x
-- Django
-- Django REST Framework
-- Pandas
-- Matplotlib
+### Web Dashboard
+![Web Dashboard](screenshots/web_dashboard.png)
 
-### Frontend
-- Web Application: React
-- Desktop Application: PyQt5
+### Analytics Charts
+![Charts](screenshots/analytics_chart.png)
+
+### Desktop Application (PyQt5)
+![Desktop App](screenshots/desktop_app.png)
+
+### Desktop Report
+![Desktop Report](screenshots/desktop_report.png)
+
+| ![](desktop_reports/charts/average_parameters.png) | ![](desktop_reports/charts/equipment_type_distribution.png) |
+
 
 ## Project Structure
 chemical-equipment-visualizer/
